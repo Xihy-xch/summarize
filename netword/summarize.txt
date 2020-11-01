@@ -1,0 +1,4 @@
+三次握手:
+    client 发送syn码向server
+    server 回复ack并向client发送syn
+    client 回复ack
