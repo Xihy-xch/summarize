@@ -25,7 +25,9 @@ sizeof:
 ，应用范围也更狭窄) 
     shared_ptr:共享式指针，维护一个计数器，新的指针指向加1，指针release减一 没有指针引用时释放, 构造函数一个指针指
 向计数器资源， 如果两个shared_ptr通过同一个指针构造会释放两次造成内存错误
-    weak_ptr:指向shared_ptr管理的对象
+    weak_ptr:指向shared_ptr管理的对
+    
+    象
 回调函数:
     在对象发生事件后调用函数实现见callback.cc
 内联函数:
