@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34bba09-ed81-44b6-97c5-11b8c798f922" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/database/summarize.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database/summarize.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/summarize.txt" beforeDir="false" afterPath="$PROJECT_DIR$/go/summarize.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -46,5 +46,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
